@@ -1,0 +1,15 @@
+D:\desktop\c#\worldskills\lab11\lab11\bin\Debug\net6.0\lab11.exe
+D:\desktop\c#\worldskills\lab11\lab11\bin\Debug\net6.0\lab11.deps.json
+D:\desktop\c#\worldskills\lab11\lab11\bin\Debug\net6.0\lab11.runtimeconfig.json
+D:\desktop\c#\worldskills\lab11\lab11\bin\Debug\net6.0\lab11.dll
+D:\desktop\c#\worldskills\lab11\lab11\bin\Debug\net6.0\lab11.pdb
+D:\desktop\c#\worldskills\lab11\lab11\obj\Debug\net6.0\lab11.csproj.AssemblyReference.cache
+D:\desktop\c#\worldskills\lab11\lab11\obj\Debug\net6.0\lab11.GeneratedMSBuildEditorConfig.editorconfig
+D:\desktop\c#\worldskills\lab11\lab11\obj\Debug\net6.0\lab11.AssemblyInfoInputs.cache
+D:\desktop\c#\worldskills\lab11\lab11\obj\Debug\net6.0\lab11.AssemblyInfo.cs
+D:\desktop\c#\worldskills\lab11\lab11\obj\Debug\net6.0\lab11.csproj.CoreCompileInputs.cache
+D:\desktop\c#\worldskills\lab11\lab11\obj\Debug\net6.0\lab11.dll
+D:\desktop\c#\worldskills\lab11\lab11\obj\Debug\net6.0\refint\lab11.dll
+D:\desktop\c#\worldskills\lab11\lab11\obj\Debug\net6.0\lab11.pdb
+D:\desktop\c#\worldskills\lab11\lab11\obj\Debug\net6.0\lab11.genruntimeconfig.cache
+D:\desktop\c#\worldskills\lab11\lab11\obj\Debug\net6.0\ref\lab11.dll
